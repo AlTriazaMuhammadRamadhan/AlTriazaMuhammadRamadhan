@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Triaza Muhammad Ramadhan</h1>
+<img src="https://teraversa.unsoed.ac.id/foto-images/H1D025138.jpg">
 <h3 align="center">A simple college student living an Informatics' college life</h3>
 
 - 🌱 I’m currently learning **Algorithm and Programming**
